@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="此域名出售!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          如果想要购买请联系邮箱 <code>x@dalao.net</code>
         </p>
       </main>
 
