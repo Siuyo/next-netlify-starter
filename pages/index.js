@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="此域名出售!" />
+        <Header title="Royo.top 此域名出售!" />
         <p className="description">
           如果想要购买请联系QQ <code>741117455</code>
         </p>
