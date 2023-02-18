@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="此域名出售!" />
         <p className="description">
-          如果想要购买请联系邮箱 <code>x@dalao.net</code>
+          如果想要购买请联系QQ <code>741117455</code>
         </p>
       </main>
 
